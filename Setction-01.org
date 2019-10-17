@@ -61,5 +61,8 @@
 
 1. use-package: 安装和管理其他包。
 2. magit: 在Emacs中使用Git
+3. lispy: 写Lisp的模式
 
 现在我将使用magit创建一个仓库并且新建一个提交。
+
+使用lispy，我们能够平滑的在Lisp Mode跳转。
