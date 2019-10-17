@@ -71,4 +71,7 @@
 
 1. 设置字体使用 `default-framke-alist`变量
 2. 使用magit
-   1) 为当前仓库添加一个远程仓库
+   1) 为当前仓库添加一个远程仓库。
+   2) 我们使用`git@github.com:evanmeek/EmacsNote.git`用于你的远程仓库。
+   3) 从origin拉取提交并且将本地提交推送至远程仓库。
+   4) 测试一波
